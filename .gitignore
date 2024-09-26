@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+
+# CSV files
+*.csv
+
+# Logs
+*.log
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
